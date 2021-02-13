@@ -1,7 +1,7 @@
 <?php
 
 $INFO = array (
-  'sql_host' => 'localhost',
+  
   'sql_database' => 'ds',
   'sql_user' => 'root',
   'sql_pass' => '',
