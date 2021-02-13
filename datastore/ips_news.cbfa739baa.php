@@ -1,0 +1,5 @@
+<?php
+
+return <<<'VALUE'
+"{\"content\":[{\"title\":\"Highlight Topics With Replies From Groups\",\"link\":\"https:\\\/\\\/invisioncommunity.com\\\/news\\\/product-updates\\\/highlight-topics-with-replies-from-groups-r1215\\\/\",\"date\":\"Tue, 08 Dec 2020 17:03:54 +0000\"},{\"title\":\"Solved Content Improvements\",\"link\":\"https:\\\/\\\/invisioncommunity.com\\\/news\\\/product-updates\\\/solved-content-improvements-r1214\\\/\",\"date\":\"Thu, 03 Dec 2020 20:19:34 +0000\"},{\"title\":\"Anonymous Posting\",\"link\":\"https:\\\/\\\/invisioncommunity.com\\\/news\\\/product-updates\\\/anonymous-posting-r1213\\\/\",\"date\":\"Tue, 10 Nov 2020 14:52:39 +0000\"},{\"title\":\"4.5: Sign in with Apple\",\"link\":\"https:\\\/\\\/invisioncommunity.com\\\/news\\\/product-updates\\\/45-sign-in-with-apple-r1207\\\/\",\"date\":\"Tue, 23 Jun 2020 10:46:43 +0000\"},{\"title\":\"4.5: Two feature additions\",\"link\":\"https:\\\/\\\/invisioncommunity.com\\\/news\\\/product-updates\\\/45-two-feature-additions-r1205\\\/\",\"date\":\"Fri, 05 Jun 2020 16:06:24 +0000\"}],\"time\":1612482008}"
+VALUE;
